@@ -1,8 +1,8 @@
-<h1 align="center"><b>[✨🥀] ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄🫧˼🫧 [✨🥀]</b></h1>
+<h1 align="center"><b>[✨🥀] 𝙃 𝙊 𝙉 𝙀 𝙔 ✘ 𝘿 𝘼 𝘿 [✨🥀]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src="https://telegra.ph/file/cfefd7f47e09bf8c87bde.jpg"/>]
+[<img src="https://telegra.ph/file/b93ef3ac49f43b15dcced.jpg"/>]
 
 > ⭐️ Thanks to everyone for using this op ˹ℕ𝕆𝔹𝕀𝕋𝔸 ꭙ 𝕊ℙ𝔸𝕄🫧˼🫧. That is the greatest pleasure we have !
 
@@ -23,6 +23,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/MRITYUY"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/+dfHhnwCpu0syMzZl"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
